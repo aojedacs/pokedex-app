@@ -1,8 +1,15 @@
-# React + Vite
+# POKEDEX APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pokedex React.js application to search and list all pokemon on PokeAPI [https://pokeapi.co/].
 
-Currently, two official plugins are available:
+## Cómo crear un Fork de la Aplicación
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Visita el repositorio original**: Ve a [https://github.com/aojedacs/pokedex-app](https://github.com/aojedacs/pokedex-app).
+
+2. **Haz clic en el botón "Fork"**: Este botón se encuentra en la esquina superior derecha de la página del repositorio. Al hacer clic, se creará una copia del repositorio en tu cuenta de GitHub.
+
+3. **Clona tu fork**: Abre tu terminal y clona tu repositorio forked en tu máquina local:
+
+   ```bash
+   git clone https://github.com/aojedacs/pokedex-app
+   cd pokedex-app
